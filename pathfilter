@@ -1,0 +1,4 @@
+cp /home/mazerunner/scripts/filter.py ./
+python3 filter.py
+rm ./filter.py
+rm ./files.txt

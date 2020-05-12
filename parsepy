@@ -1,0 +1,3 @@
+cp /home/mazerunner/scripts/parsepy.py ./
+python3 parsepy.py
+rm ./parsepy.py

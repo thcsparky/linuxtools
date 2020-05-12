@@ -1,0 +1,32 @@
+echo sed 's/SEARCH_REGEX/REPLACEMENT/g'
+echo type
+echo source /echo
+echo HURL
+echo grep -v -G
+echo ls -R -H --hide=*
+echo exiv2
+echo printf %q
+echo xxd = binary->hex / vice versa
+echo airventriloquist-ng = airvt
+echo ------------
+echo scripts:
+echo filterpy = runs a script to filter file contens
+echo parsepy = only prints right or left of a variable in a file.. 
+echo edithelp = open this file
+echo scr='cd /home/mazerunner/scripts/'
+echo editboth = open this an alias setter
+echo edita = open alias setter
+echo myhelp='source /home/mazerunner/scripts/useful'
+echo imagedirs = open Pictures and svg
+echo ------------
+echo nmap stuff:
+echo scripts location: /usr/share/nmap/scripts/
+echo ------------
+echo lsa='ls -A'
+echo ssa='srch_strings'
+echo ssfa='srch_strings -f'
+echo sdssa='sudo srch_strings'
+echo kk='kill -9'
+echo pics = 'cd pictures'
+echo picssvg = cd svg
+echo exploit = cd exploits/android/remote/38554.py
