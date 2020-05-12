@@ -18,6 +18,7 @@ echo editboth = open this an alias setter
 echo edita = open alias setter
 echo myhelp='source /home/mazerunner/scripts/useful'
 echo imagedirs = open Pictures and svg
+echo regexHere find regex in current directory
 echo ------------
 echo nmap stuff:
 echo scripts location: /usr/share/nmap/scripts/
