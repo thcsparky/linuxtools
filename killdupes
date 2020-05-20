@@ -1,0 +1,3 @@
+cp /home/mazerunner/scripts/killdupes.py ./
+python3 killdupes.py
+rm ./killdupes.py

@@ -19,9 +19,7 @@ echo edita = open alias setter
 echo myhelp='source /home/mazerunner/scripts/useful'
 echo imagedirs = open Pictures and svg
 echo regexHere find regex in current directory
-echo ------------
-echo nmap stuff:
-echo scripts location: /usr/share/nmap/scripts/
+echo killdupes = Kill duplicate entries in an ascii file, for shell scripting stuff.
 echo ------------
 echo lsa='ls -A'
 echo ssa='srch_strings'
