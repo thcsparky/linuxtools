@@ -1,13 +1,13 @@
 echo sed 's/SEARCH_REGEX/REPLACEMENT/g'
+echo sed 's/$/text' :adds text to the end of each line
 echo type
 echo source /echo
-echo HURL
+echo hURL -M :conversions
 echo grep -v -G
 echo ls -R -H --hide=*
 echo exiv2
 echo printf %q
 echo xxd = binary->hex / vice versa
-echo airventriloquist-ng = airvt
 echo ------------
 echo scripts:
 echo filterpy = runs a script to filter file contens
@@ -20,12 +20,13 @@ echo myhelp='source /home/mazerunner/scripts/useful'
 echo imagedirs = open Pictures and svg
 echo regexHere find regex in current directory
 echo killdupes = Kill duplicate entries in an ascii file, for shell scripting stuff.
+echo nsh = nmap --script-help [shortcut word]
 echo ------------
 echo lsa='ls -A'
-echo ssa='srch_strings'
+echo ssa='srch_strings -a'
+echo rsa='sudo srch_string'
 echo ssfa='srch_strings -f'
 echo sdssa='sudo srch_strings'
 echo kk='kill -9'
 echo pics = 'cd pictures'
 echo picssvg = cd svg
-echo exploit = cd exploits/android/remote/38554.py
