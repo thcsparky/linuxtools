@@ -7,7 +7,8 @@ echo grep -v -G
 echo ls -R -H --hide=*
 echo exiv2
 echo printf %q
-echo xxd = binary->hex / vice versa
+echo 5pyd3r = launch spi.py
+echo pyhelp = change dir to ~/Desktop/python/EXAMPLES
 echo ------------
 echo scripts:
 echo filterpy = runs a script to filter file contens
